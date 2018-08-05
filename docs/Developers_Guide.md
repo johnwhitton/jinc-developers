@@ -47,6 +47,8 @@ brew upgrade
 - [Rocketchat](https://rocket.chat/download) - Hyperledger
 - [gitter](https://gitter.im/apps) - Ethereum
 - [Keybase](https://keybase.io/download) - Stellar
+- [Riot](https://about.riot.im/)
+- [Telegram](https://telegram.org/)
 
 
 ## Other
@@ -56,6 +58,88 @@ brew upgrade
 ## Go
 - [brew install go](http://brewformulas.org/Go)
 - Work through the exercises in [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing-ebook/dp/B0184N7WWS/ref=mt_kindle?_encoding=UTF8&me=) using [Kindle Reader](https://read.amazon.com/)
+
+## Node
+```
+brew update
+brew install node
+node -v
+npm -v
+brew upgrade node
+npm install -g npm
+```
+
+## React
+- Read the [getting started guide](https://reactjs.org/docs/getting-started.html)
+
+
+## MySQL
+This can be done via [brew](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e) , 
+[docker](https://docs.docker.com/samples/library/mysql/) or 
+[natively](https://dev.mysql.com/doc/refman/5.7/en/osx-installation-pkg.html)
+
+The following uses [brew](https://brew.sh/)
+
+```
+$ brew info mysql
+$ brew install mysql
+$ brew upgrade mysql
+
+ $ brew tap homebrew/services
+ $ brew services start mysql
+ $ brew services list
+ $ mysql -V
+ $ mysql -u root
+```
+
+or the following to set a password
+
+``` 
+$ mysqladmin -u root password 'yourpassword' 
+```
+
+## Gitbook
+Instructions for installing Gitbook can be found [here](https://toolchain.gitbook.com/setup.html)
+or you can use [brew cask](http://macappstore.org/gitbook/) 
+```
+brew cask install gitbook
+```
+
+## Rust
+
+## Solidity
+
+## Docker
+
+## Kubernetes
+
+## Helm
+
+## Blockchains
+
+### Ethereum - Go
+
+### Ethereum - Parity
+
+### Tendermint
+
+### Bitcon
+
+### EOS
+
+### Stellar
+
+## Repos
+
+* ABCI
+* IBC
+* Peggy
+* Tendermint
+* Parity
+* Governance
+* Stable Coins
+* OffChain Orchestration
+* WASM
 
 
 
