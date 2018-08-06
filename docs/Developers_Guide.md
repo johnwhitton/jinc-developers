@@ -225,6 +225,8 @@ To install use the [following link](https://makerdao.com/documentation/#installa
   * [ERC-223](https://github.com/ethereum/EIPs/issues/223)	- Like ERC-20 but with uniformity and  transfer handling  
   * [ERC-721](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-721.md)	"Non-Fungible Tokens - Used for CryptoKitties - [write up](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24) 
   * [ERC-827](https://github.com/ethereum/EIPs/issues/827)	- Extends ERC-20
+  * [ERC-820](https://eips.ethereum.org/EIPS/eip-820) - Use of Registries
+  * [EIP-777](https://eips.ethereum.org/EIPS/eip-777) - Extends ERC-20 and [ERC-820](https://eips.ethereum.org/EIPS/eip-820)
   * [MakerDAO](https://github.com/makerdao/sai/tree/master/src)	- Smart Contracts 
     * [Market Place](https://github.com/makerdao/maker-otc/tree/master/src)
   * TrueUSD	
