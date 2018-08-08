@@ -205,6 +205,7 @@ To install use the [following link](https://makerdao.com/documentation/#installa
 * [Polkadot](https://github.com/paritytech/polkadot)
 * [Stellar](https://github.com/stellar)
 * [Fabric](https://github.com/hyperledger/fabric) - [Jira board](https://jira.hyperledger.org/secure/RapidBoard.jspa?projectKey=FAB&rapidView=7&view=planning)
+* [Plasma Cash](https://github.com/omisego/plasma-cash) by [OmiseGo](https://omisego.network/)
 * Governance 
   * [tendermint consensus](https://github.com/tendermint/tendermint/blob/master/docs/spec/consensus/consensus.md) 
   * [Rocket Pool](https://github.com/rocket-pool/rocketpool)
