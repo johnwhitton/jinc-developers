@@ -23,6 +23,19 @@ git clone https://github.com/johnwhitton/jinc-developers.git
 
 - [Atom](https://atom.io/)
 - [Visual Studio](https://code.visualstudio.com/docs?start=true)
+  - [Solidity](https://blogs.msdn.microsoft.com/caleteet/2016/04/01/solidity-integration-with-visual-studio/)
+  - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
+  - [Markdown](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+  - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+  - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+  - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+  - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust)
+  - [React Native Tools](https://marketplace.visualstudio.com/items?itemName=vsmobile.vscode-react-native)
+  - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+  - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+  - [Helm](https://marketplace.visualstudio.com/items?itemName=technosophos.vscode-helm)
+  - [Travis CI Status](https://marketplace.visualstudio.com/items?itemName=felixrieseberg.vsc-travis-ci-status)
 
 ## Communication
 - [skype](https://www.skype.com/en/get-skype/skype-for-mac/) - Business Users
@@ -239,7 +252,9 @@ To install use the [following link](https://makerdao.com/documentation/#installa
   * [Qurrex](https://github.com/Qurrex/smart_contracts) - Qurrex - ICO Smart Contracts
   * [Kowala](https://github.com/kowala-tech/edge-currency-kowala) - Kowala - Intergrate Bitcoin Send Recieve Functionality
   * [Solidified](https://github.com/solidified-platform) - Smart Contract Auditing - [website](https://solidified.io/)
-
+* Order Books
+  * [OasisDEX](https://github.com/OasisDEX) - Trading Interfaces
+    * [OasisDirect](https://github.com/OasisDEX/oasis-direct)
 
 
 
